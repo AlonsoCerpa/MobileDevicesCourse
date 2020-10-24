@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="nivel">Nivel</string>
+    <string name="puntaje">Puntaje</string>
+</resources>
