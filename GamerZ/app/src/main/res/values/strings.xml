@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GamerZ Forum</string>
+    <string name="login">Login:</string>
+    <string name="email_hint">Your email...</string>
+    <string name="password_hint">Password...</string>
+    <string name="login_logo_desc">Login Logo</string>
+    <string name="login_button_text">Login to account</string>
+    <string name="go_to_reg_button_text">Need a new account?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="register">Register:</string>
+    <string name="reg_button_text">Register</string>
+    <string name="reg_login_text">Already have an Account?</string>
+    <string name="reg_conf_password">Confirm password...</string>
+    <string name="setup_name_hint">Name...</string>
+    <string name="setup_button_name_text">Save Account Settings</string>
+    <string name="new_post_img_text">New post image</string>
+    <string name="new_post_desc_text">Add description...</string>
+    <string name="post_button_text">Post</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Notification</string>
+    <string name="bottom_account_text">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="blog_post_data">Blog Post Date</string>
+    <string name="sample_text_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt.</string>
+    <string name="blog_img_desc">Blog Image</string>
+    <string name="number_likes">0 Likes</string>
+    <string name="like_button">Like Button</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741136023612",
+    "firebase_url": "https://gamerz-bd702.firebaseio.com",
+    "project_id": "gamerz-bd702",
+    "storage_bucket": "gamerz-bd702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741136023612:android:8fad84d12cac86a2234339",
+        "android_client_info": {
+          "package_name": "com.example.gamerz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741136023612-4q3okppkogprgu67tvan2nk0d7vjmf38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamerz",
+            "certificate_hash": "7ad8500c6c05c9f91562e24d4ebb453c8d396c0e"
+          }
+        },
+        {
+          "client_id": "741136023612-qhj3ca71hup669tbktgqpq9opg1g5tce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDKeG2cvdEmHgQzk64fO7gJI5799soNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741136023612-qhj3ca71hup669tbktgqpq9opg1g5tce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
